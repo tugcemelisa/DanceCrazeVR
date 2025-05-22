@@ -1759,6 +1759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: MirroredObjects
       objectReference: {fileID: 0}
+    - target: {fileID: 2899195608405727081, guid: 4a1f64f1a2bc5f24ea01239b3d280141, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3038442665880082030, guid: 4a1f64f1a2bc5f24ea01239b3d280141, type: 3}
       propertyPath: _target
       value: 
