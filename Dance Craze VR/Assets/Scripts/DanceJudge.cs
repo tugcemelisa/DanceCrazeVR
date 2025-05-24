@@ -10,17 +10,28 @@ public class DanceJudge : MonoBehaviour
 
     void Update()
     {
-        if (playerBones.Length != partnerBones.Length) return;
+        if (playerBones.Length != partnerBones.Length)
+        {
+            Debug.LogWarning("Bone array lengths do not match!");
+            return;
+        }
 
         float frameScore = 0f;
         for (int i = 0; i < playerBones.Length; i++)
         {
-            float distance = Vector3.Distance(playerBones[i].position, partnerBones[i].position);
-            frameScore += Mathf.Clamp01(1f - distance);
+            Vector3 playerDir = playerBones[i].forward;
+            Vector3 partnerDir = partnerBones[i].forward;
+
+            float angleDiff = Vector3.Angle(playerDir, partnerDir);
+            float alignmentScore = Mathf.Clamp01(1f - angleDiff / 120f); 
+            frameScore += alignmentScore;
         }
 
-        totalScore += frameScore / playerBones.Length;
+        float averageFrameScore = frameScore / playerBones.Length;
+        totalScore += averageFrameScore;
         frameCount++;
+
+        Debug.Log("Current Frame Score: " + averageFrameScore);
     }
 
     public float GetScorePercentage()

@@ -3,7 +3,17 @@ guid: 0178580818d53db48a876bc6c0d1451f
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beta_HighLimbsGeoSG3
+    second: {fileID: 2100000, guid: e571fb76c9dddce49a9d258dec12aa2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beta_Joints_MAT1
+    second: {fileID: 2100000, guid: e224109b22be96c4ba076f1a8092b20f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
