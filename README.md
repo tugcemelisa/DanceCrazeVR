@@ -61,9 +61,13 @@ You can add screenshots, videos, links, etc to the resources that inspired you f
 
 ## Notion Page
 https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
+<img width="1106" alt="Screenshot 2025-05-26 211146" src="https://github.com/user-attachments/assets/b354b969-241e-434d-9031-19ddb75e6b38" />
+
 
 ## Kanban Board
-##https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
+https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
+<img width="1106" alt="Screenshot 2025-05-26 211146" src="https://github.com/user-attachments/assets/cf4e2234-290b-4307-99c8-3633732dc55d" />
+
 
 ##Key Learning Points
 I learned how to set up Meta’s Body Pose Detection SDK and create a custom XR scene with full-body tracking. I tested avatar mirroring and synced movements with a dance partner, which proved that social-media style dance gameplay works well in VR and feels fun and expressive. I considered using Final IK for AI-based prediction, but focused on core gameplay instead.
