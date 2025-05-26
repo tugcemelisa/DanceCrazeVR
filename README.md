@@ -51,7 +51,7 @@ A VR dance game focused on learning, fun, and being attractive through dance. Pl
 
 
 ## Notion Page
-https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
+[https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e](https://www.notion.so/Week-1-Dance-Craze-VR-1ffcce1ac2ed80fe807acd2474f41198)
 <img width="1111" alt="Screenshot 2025-05-26 211321" src="https://github.com/user-attachments/assets/8f0004c5-10fe-4171-976d-d4e01636c14a" />
 
 ## Kanban Board
