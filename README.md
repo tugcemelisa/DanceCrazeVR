@@ -53,19 +53,16 @@ You can add screenshots, videos, links, etc to the resources that inspired you f
 - [Full Body Estimation - Steam](https://store.steampowered.com/app/2370570/Standable_Full_Body_Estimation/)
 - [TikTok/YouTube Dance Trends Archive](https://www.youtube.com/watch?v=xTNvYD3mYiE)
 
-##Prototype
-Kanban Board: (https://www.notion.so/1f30095e34d88197bad9cc5cb0eb6520?pvs=21)
-
-Pitch Presentation
+## Pitch Presentation
 <img width="1273" alt="WEEK1P" src="https://github.com/user-attachments/assets/39123b0f-be01-4d81-93d5-9485db3de7e2" />
 
-##Video
+## Video
 
 
-##Notion Page
+## Notion Page
 https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
 
-##Kanban Board
+## Kanban Board
 ##https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
 
 ##Key Learning Points
