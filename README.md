@@ -1,7 +1,4 @@
 # DanceCrazeVR
-VR dance game prototype using Unity 6 and Meta SDK for XR Bootcamp.
-## Idea
-
 A VR dance game focused on learning, fun, and being attractive through dance. Players select viral dance moves and perform them like a professional dancer using full-body tracking. The goal is to enjoy dancing, improve movement accuracy, and feel confident and expressive. This prototype proves that social media-inspired dance challenges can become immersive XR experiences that combine skill-building and self-expression.
 
 ## Features
