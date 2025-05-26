@@ -42,10 +42,7 @@ These are the features that your prototype ***really*** needs to function or to 
 - [Mixamo](https://www.mixamo.com/)
 - [Sky Box with AI](https://skybox.blockadelabs.com/)
 
-## Resources/Inspiration (optional)
-
-You can add screenshots, videos, links, etc to the resources that inspired you for this idea, or that you want to use as a reference.
-
+## Resources/Inspiration 
 - [Just Dance VR – Meta](https://www.meta.com/en-gb/experiences/just-dance-vr-welcome-to-dancity/6646371635430939/)
 - [Just Dance VR - Gameplay](https://www.youtube.com/shorts/1EmIk-sJoxg)
 - [Beat Saber VR - Gameplay](https://www.youtube.com/shorts/gTKpjuE0Al8)
@@ -61,15 +58,14 @@ You can add screenshots, videos, links, etc to the resources that inspired you f
 
 ## Notion Page
 https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
-<img width="1106" alt="Screenshot 2025-05-26 211146" src="https://github.com/user-attachments/assets/b354b969-241e-434d-9031-19ddb75e6b38" />
-
+<img width="1111" alt="Screenshot 2025-05-26 211321" src="https://github.com/user-attachments/assets/8f0004c5-10fe-4171-976d-d4e01636c14a" />
 
 ## Kanban Board
 https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e
 <img width="1106" alt="Screenshot 2025-05-26 211146" src="https://github.com/user-attachments/assets/cf4e2234-290b-4307-99c8-3633732dc55d" />
 
 
-##Key Learning Points
+## Key Learning Points
 I learned how to set up Meta’s Body Pose Detection SDK and create a custom XR scene with full-body tracking. I tested avatar mirroring and synced movements with a dance partner, which proved that social-media style dance gameplay works well in VR and feels fun and expressive. I considered using Final IK for AI-based prediction, but focused on core gameplay instead.
 **My main goa**l is to continue developing this game at a professional level using external full-body tracking hardware. This will make the experience far more accurate, expressive, and immersive, especially for dancers and content creators. I aim to turn this project into a polished product that can be released and sold commercially.
 
