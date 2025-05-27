@@ -48,7 +48,8 @@ A VR dance game focused on learning, fun, and being attractive through dance. Pl
 <img width="1273" alt="WEEK1P" src="https://github.com/user-attachments/assets/39123b0f-be01-4d81-93d5-9485db3de7e2" />
 
 ## Video
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/wrmys4GDFNw?si=GGKWLuqgnW_rRfuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://youtu.be/wrmys4GDFNw?si=J-qnhVOJ3qHjKZFP)
+> Click the image to watch the **DanceCraze VR** gameplay demo on YouTube.
+[![DanceCraze VR](https://img.youtube.com/vi/wrmys4GDFNw/0.jpg)](https://www.youtube.com/watch?v=wrmys4GDFNw)
 
 ## Notion Page
 https://www.notion.so/Week-1-Dance-Craze-VR-1ffcce1ac2ed80fe807acd2474f41198
