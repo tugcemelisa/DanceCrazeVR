@@ -45,7 +45,7 @@ A VR dance game focused on learning, fun, and being attractive through dance. Pl
 - [TikTok/YouTube Dance Trends Archive](https://www.youtube.com/watch?v=xTNvYD3mYiE)
 
 ## Pitch Presentation
-<img width="1273" alt="WEEK1P" src="https://github.com/user-attachments/assets/39123b0f-be01-4d81-93d5-9485db3de7e2" />
+<img width="1274" alt="Screenshot 2025-05-31 232439" src="https://github.com/user-attachments/assets/056a6447-da5a-4e5e-9dc8-a4ebb93c2376" />
 
 ## Video
 > Click the image to watch the **DanceCraze VR** gameplay demo on YouTube.
