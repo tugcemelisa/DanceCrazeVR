@@ -61,6 +61,8 @@ https://www.notion.so/Week-1-Dance-Craze-VR-1ffcce1ac2ed80fe807acd2474f41198
 
 ## ArtStation
 https://www.artstation.com/artwork/AZDY3o
+![melisa-tugce-screenshot-2025-05-31-181939](https://github.com/user-attachments/assets/ab6f89b8-48c0-4e51-8a09-e8ac8256e43b)
+![melisa-tugce-screenshot-2025-05-31-182018](https://github.com/user-attachments/assets/d9a1d069-4f30-4c12-941d-ffccf02e68c4)
 
 ## Key Learning Points
 - I learned how to set up Meta’s Body Pose Detection SDK and create a custom XR scene with full-body tracking.
