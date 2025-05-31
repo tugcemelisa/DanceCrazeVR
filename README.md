@@ -59,6 +59,9 @@ https://www.notion.so/Week-1-Dance-Craze-VR-1ffcce1ac2ed80fe807acd2474f41198
 [https://www.notion.so/xrbootcamp/Dance-Craze-VR-Game-Kanban-Board-1f30095e34d881239854db33fd7b725e](https://www.notion.so/Dance-Craze-VR-Game-Kanban-Board-1ffcce1ac2ed81a09c0bfe6bc89b2f3b)
 <img width="1106" alt="Screenshot 2025-05-26 211146" src="https://github.com/user-attachments/assets/cf4e2234-290b-4307-99c8-3633732dc55d" />
 
+## ArtStation
+https://www.artstation.com/artwork/AZDY3o
+
 ## Key Learning Points
 I learned how to set up Meta’s Body Pose Detection SDK and create a custom XR scene with full-body tracking. I tested avatar mirroring and synced movements with a dance partner, which proved that social-media style dance gameplay works well in VR and feels fun and expressive. I considered using Final IK for AI-based prediction, but focused on core gameplay instead. My main goal is to continue developing this game at a professional level using external full-body tracking hardware. This will make the experience far more accurate, expressive, and immersive, especially for dancers and content creators. I aim to turn this project into a polished product that can be released and sold commercially.
 
